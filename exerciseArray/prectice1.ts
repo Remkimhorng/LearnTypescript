@@ -1,0 +1,23 @@
+var numbers = [];
+numbers.push(1);
+numbers.push(2);
+numbers.push(3);
+numbers.push(4);
+numbers.push(5);
+numbers.push(6);
+numbers.push(7);
+numbers.push(8);
+numbers.push(9);
+numbers.push(10);
+
+console.log(numbers[0]);
+console.log(numbers[2]);
+console.log(numbers[4]);
+console.log(numbers[6]);
+console.log(numbers[8]);
+console.log("/2");
+console.log(numbers[1]);
+console.log(numbers[3]);
+console.log(numbers[5]);
+console.log(numbers[7]);
+console.log(numbers[9]);
